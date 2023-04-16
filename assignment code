@@ -53,25 +53,25 @@
         <h4>Enquery Form:</h4>
         <br><br>
         <form action="thanks.html">
-            <label for="name">Name</label><br>
+            <label for="name">Name</label>
             <input type="text" id="name" name="username" placeholder="Enter Your Name">
             <br><br> 
-            <label for="District">District:</label><br>
+            <label for="District">District:</label>
             <input type="text" id="District" placeholder="Enter Your District">
             <br><br>
-            <label for="State">State:</label><br>
+            <label for="State">State:</label>
             <input type="text" id="State" placeholder="Enter Your State">
             <br><br>
-            <label for="age">Age:</label><br>
+            <label for="age">Age:</label>
             <input type="number" id="age" placeholder="Enter Your age">
             <br><br>
-            <label for="DOB">DOB:</label><br>
+            <label for="DOB">DOB:</label>
             <input type="date" id="DOB" placeholder="Enter Your dob">
             <br><br>
-            <label for="email">Email:</label><br>
+            <label for="email">Email:</label>
             <input type="email" id="email" placeholder="Enter Your Email">
             <br><br>
-            <label for="gender">Gender:</label><br>
+            <label for="gender">Gender:</label>
             <input type="radio" name="gender">Male
             <input type="radio" name="gender">Female
             <br> <br>
